@@ -3,7 +3,7 @@ body {
    font-family:'Open Sans', sans-serif;
     font-weight: 400;
     font-size: 14px;
-    color: #000;   
+    color: #000;
     margin-top: 40px;
     line-height:16px;
 }
@@ -12,7 +12,7 @@ h1, h2, h3, h4, h5, h6 {
       font-family:'Open Sans', sans-serif;
     font-weight: 500;
    line-height:40px;
-   
+
 }
 
 h1 {
@@ -20,7 +20,7 @@ h1 {
     font-weight: 700;
 }
 .text-center {
-    text-align: center; 
+    text-align: center;
 }
 
 .main-top-margin {
@@ -85,7 +85,7 @@ p {
 	text-align:center;
 	background-position: center center;
 	min-height: 700px;
-	width: 100%;	
+	width: 100%;
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
@@ -121,7 +121,7 @@ p {
 
 #about-section {
     background-color: #FAFAFA;
-   
+
 }
 
 
@@ -145,7 +145,7 @@ p {
      color:#cb2027;
 }
 /* ===========================================================
-   BOOTSTRAP ELEMENTS CHANGES   
+   BOOTSTRAP ELEMENTS CHANGES
    ============================================================*/
 .navbar {
 	font-size: 14px;
@@ -168,7 +168,7 @@ border-color: #5D5B66;
 	letter-spacing: 2px;
 }
 .navbar-inverse :hover .navbar-brand:hover {
-	color: #ffffff;	
+	color: #ffffff;
 }
 .navbar-inverse .navbar-nav > li > a {
 color: #FFFFFF;
@@ -184,13 +184,16 @@ color: #FFFFFF;
 /* ==========================================================================
    FOOTER SECTION
    ========================================================================== */
-   
+
 
 #footer {
-    background-color: #2F11C4; 
-    color: #fff; 
-    text-align: right; 
+    background-color: #2F11C4;
+    color: #fff;
+    text-align: right;
     padding: 10px 30px 10px 30px;
 }
 
 
+#header-section {
+    color: #FFFFFF;
+}
