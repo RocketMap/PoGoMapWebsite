@@ -1,4 +1,4 @@
 # PoGoMap
 Showcase site for the upcoming PoGoMap.
 
-www.pogomap.ga
+https://jz6.github.io/PoGoMap/
