@@ -5,7 +5,7 @@ p{font-family:"Source Sans Pro", sans-serif;}
 .btn, a{-webkit-transition:color linear .4s, background-color linear .4s, border-color linear .4s;transition:color linear .4s, background-color linear .4s, border-color linear .4s;}
 .btn:hover, a:hover{text-decoration:none;outline:none;}
 .btn-link{display:inline-block;vertical-align:top;background:#f4f4f4;border-radius:3px;font-weight:bold;font-size:1.4rem;line-height:1.3571428;padding:7px 24px;}
-.btn-link:hover{background:#e0e0e0;}
+.btn-link:hover{background:	#4a80f5;}
 #wrapper{width:100%;height:100%;display:table;overflow:hidden;table-layout:fixed;}
 #footer{width:100%;overflow:hidden;display:table-footer-group;height:1%;}
 .btn-blue{background:#3b5998;color:#fff;}
