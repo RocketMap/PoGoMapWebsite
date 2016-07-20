@@ -1071,10 +1071,10 @@ textarea {
   line-height: inherit; }
 
 a {
-  color: #8d81ac;
+  color: #3399CC;
   text-decoration: none; }
   a:hover, a:focus {
-    color: #665987;
+    color: #3399CC;
     text-decoration: underline; }
   a:focus {
     outline: thin dotted;
@@ -1140,7 +1140,7 @@ h1, h2, h3, h4, h5, h6,
   font-family: inherit;
   font-weight: 500;
   line-height: 1.1;
-  color: #635C73; }
+  color: #e0e0e0; }
   h1 small,
   h1 .small, h2 small,
   h2 .small, h3 small,
@@ -1258,7 +1258,7 @@ mark,
   color: #777777; }
 
 .text-primary {
-  color: #8d81ac; }
+  color: #e0e0e0; }
 
 a.text-primary:hover {
   color: #726397; }
@@ -2891,8 +2891,8 @@ select[multiple].input-lg,
 
 .btn-primary {
   color: #fff;
-  background-color: #8d81ac;
-  border-color: #8d81ac; }
+  background-color: #e0e0e0;
+  border-color: #e0e0e0; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active, .open > .btn-primary.dropdown-toggle {
     color: #fff;
     background-color: #726397;
