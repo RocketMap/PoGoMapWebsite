@@ -793,6 +793,19 @@ p {
 	font-size: 1.4rem;
 	line-height: 1.6428571429;
 	color: #848e97;
+    
+    .col-left {
+        width: 37%;
+        text-align: center;
+    }
+    
+    .col-mid {
+        text-align: center;
+    }
+    
+    .col-right {
+        text-align: center;
+    }
 
 	&:before {
 		content: '';
@@ -804,11 +817,14 @@ p {
 		background: #f4f4f4;
 	}
 	.logo {
-		margin: 0 0 23px;
+		margin: 0 0 0;
 		padding: 4px 0 0;
 		float: none;
 		display: block;
-
+        & h3 {
+            width: 380px;
+            margin-top: 0px;
+        }
 		& + p {
 			line-height: 21px;
 		}
@@ -840,6 +856,9 @@ p {
 	}
 	.text-frame {
 		padding: 0 0 0 25px;
+        h3 {
+            margin-top: 0px;
+        }
 	}
 	.phone {
 		display: block;
@@ -1207,7 +1226,7 @@ p {
 			padding: 0;
 		}
 		.text-frame {
-			padding: 0;
+			padding: 0 0 0;
 		}
 		&:before {
 			left: 0;
