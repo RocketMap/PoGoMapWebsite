@@ -29,7 +29,7 @@ p{font-family:"Source Sans Pro", sans-serif;}
 .nav-opener:hover{opacity:.9;}
 .nav-active .nav-opener:after, .nav-active .nav-opener:before{-moz-transform:rotate(45deg);-webkit-transform:rotate(45deg);-ms-transform:rotate(45deg);transform:rotate(45deg);top:16px;left:5%;right:5%;}
 .nav-active .nav-opener:after{-moz-transform:rotate(-45deg);-webkit-transform:rotate(-45deg);-ms-transform:rotate(-45deg);transform:rotate(-45deg);}
-.visual{min-height:904px;position:relative;overflow:hidden;text-align:center;color:#bbdaa4;font-size:0;letter-spacing:-4px;padding:104px 0 0;background-image:url(../images/capture.png);background-size:cover}
+.visual{min-height:904px;position:relative;overflow:hidden;text-align:center;color:#e6e6e8;font-size:0;letter-spacing:-4px;padding:104px 0 0;background-image:url(../images/capture.png);background-size:cover}
 .visual .bg-stretch{position:absolute;bottom:0;left:50%;-webkit-transform:translateX(-50%);-ms-transform:translateX(-50%);transform:translateX(-50%);}
 .visual > .container{display:inline-block;vertical-align:top;position:relative;z-index:1;font-size:2.4rem;line-height:1.5;letter-spacing:0;}
 .visual h1{margin:0 0 10px;font-size:8.2rem;line-height:1.12;font-weight:bold;color: #9bbff4;}
