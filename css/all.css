@@ -98,7 +98,7 @@ p{font-family:"Source Sans Pro", sans-serif;}
 .visual-container .visual-area .bg-stretch{position:absolute;top:0;left:0;}
 .visual-container .visual-area + .visual-area{padding:70px 0;}
 .visual-container .visual-area + .visual-area:after{content:"";position:absolute;top:0;left:180px;right:180px;height:1px;background:rgba(102, 74, 102, 0.6);}
-.visual-container h2{margin:0 0 70px;font-size:4.8rem;line-height:1.166666;font-weight:bold;color:#e3dfed;}
+.visual-container h2{margin:0 0 70px;font-size:4.8rem;line-height:1.166666;font-weight:bold;color:#ffffff;}
 .visual-container p.silent{color:#746074;}
 .testimonials{margin:0;padding:0;list-style:none;color:#fff;margin-bottom:-46px;overflow:hidden;font-size:0;letter-spacing:-4px;}
 .testimonials li{display:inline-block;vertical-align:top;font-size:1.6rem;line-height:1.5;width:33.3333%;letter-spacing:0;}
