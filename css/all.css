@@ -91,7 +91,7 @@ p{font-family:"Source Sans Pro", sans-serif;}
 .cycle-gallery .mask .slideset{width:99999px;float:left;}
 .cycle-gallery .mask .slide{float:left;}
 .cycle-gallery .mask .slide.active{z-index:1;}
-.visual-container{background:#4E384E;text-align:center;}
+.visual-container{background:#7DAD71;text-align:center;}
 .visual-container .visual-area{position:relative;overflow:hidden;padding:90px 0 70px;font-size:1.4rem;line-height:1.5;color:#fff;}
 .visual-container .visual-area > .container{position:relative;z-index:1;}
 .visual-container .visual-area > .container > p{margin:0 120px 5px;}
