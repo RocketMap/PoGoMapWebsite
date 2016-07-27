@@ -9,13 +9,13 @@ $(function() {
              </div>`
     $("#try-it").click(function () {
         if (!showingApp) {
-            console.log('hello')
             $("#first-visual").empty().append(iframeapp);
             $("#try-it").text("Hide it!");
             showingApp = true;
         }
         else {
             $("#first-visual").empty().replaceWith(clone);
+            $("#try-it").text("Try it out!");
             showingApp = false;
         }
     });
