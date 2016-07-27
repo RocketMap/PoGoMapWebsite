@@ -13,7 +13,7 @@ p{font-family:"Source Sans Pro", sans-serif;}
 .logo{float:left;margin:0 0 0 15px;width:151px;height:41px;}
 .social-placeholder{padding:9px 0 0;height:35px;}
 .social-placeholder img{vertical-align:top;max-width:100%;height:auto;}
-#header{position:fixed;top:0;left:0;width:100%;z-index:99;padding:31px 0 32px;background:#fff;box-shadow:0 1px 1px rgba(196, 194, 202, 0.23);-webkit-backface-visibility:hidden;}
+#header{position:fixed;top:0;left:0;width:100%;z-index:99;padding:10px 0 10px;background:#fff;box-shadow:0 1px 1px rgba(196, 194, 202, 0.23);-webkit-backface-visibility:hidden;}
 #header .btn{float:right;margin:2px 0 0 59px;height:38px;min-width:145px;padding:7px;font-weight:bold;font-size:1.6rem;line-height:22px;letter-spacing:0;}
 #nav{overflow:hidden;text-align:right;font-size:0;letter-spacing:-4px;white-space:nowrap;}
 #nav .nav-drop{overflow:hidden;}
