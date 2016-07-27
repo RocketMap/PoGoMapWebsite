@@ -1,0 +1,22 @@
+$(function() {
+    var showingApp = false;
+    var clone = $("#first-visual").clone();
+    // TODO: make it work on mobile, this was supposed to be responsive - update Bootstrap?
+    iframeapp = `<div class="container">
+                <div id="pogomapp" class="embed-responsive embed-responsive-16by9">
+                    <iframe class="embed-responsive-item" src="http://pkmgomap.com/" with="100%"></iframe>
+                </div>
+             </div>`
+    $("#try-it").click(function () {
+        if (!showingApp) {
+            console.log('hello')
+            $("#first-visual").empty().append(iframeapp);
+            $("#try-it").text("Hide it!");
+            showingApp = true;
+        }
+        else {
+            $("#first-visual").empty().replaceWith(clone);
+            showingApp = false;
+        }
+    });
+});
