@@ -4,7 +4,7 @@ $(function() {
     // TODO: make it work on mobile, this was supposed to be responsive - update Bootstrap?
     iframeapp = `<div class="container">
                 <div id="pogomapp" class="embed-responsive embed-responsive-16by9">
-                    <iframe class="embed-responsive-item" src="https://pkmgomap.com/" with="100%"></iframe>
+                    <iframe class="embed-responsive-item" src="https://vision.pokemongo-hk.xyz/" with="100%"></iframe>
                 </div>
              </div>`
     $("#try-it").click(function () {
